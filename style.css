@@ -1,20 +1,39 @@
-body {
-    background-color:rgb();
-
-  ;
+H1 {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #006600;
+    letter-spacing: 1.4px;
+    border-bottom: solid 1px #006600;
+    text-transform: uppercase;
 }
-h1 {
-    color: blue;
-    background-color: red;
+H2 {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: 1.2px;
+    color: #009900;
 }
-p {
-    color: Black;
-    font-size: 30px;
-    background-color: lightblue;
+P, BLOCKQUOTE {
+    font-family: Verdana;
+    font-size: 11px;
+    color: #555555;
+    line-height: 1.5;
+    letter-spacing: .25px;
 }
-h2 {
-  color: green;
+BLOCKQUOTE {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color: #444444;
+    letter-spacing: 1.25px;
+    line-height: 1.5;
+    background: #EEEEEE;
+    padding: 5px;
+    margin: auto 15px;
 }
-div {
-    background-color: lightblue;
+A {
+    color: #006600;
+}
+ABBR {
+    border-bottom: dotted 1px #006600;
 }
