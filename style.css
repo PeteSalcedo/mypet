@@ -14,26 +14,10 @@ H2 {
     letter-spacing: 1.2px;
     color: #009900;
 }
-P, BLOCKQUOTE {
-    font-family: Verdana;
-    font-size: 11px;
-    color: #555555;
-    line-height: 1.5;
-    letter-spacing: .25px;
-}
-BLOCKQUOTE {
-    font-family: Georgia, serif;
-    font-style: italic;
-    color: #444444;
-    letter-spacing: 1.25px;
-    line-height: 1.5;
-    background: #EEEEEE;
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
     padding: 5px;
-    margin: auto 15px;
-}
-A {
-    color: #006600;
-}
-ABBR {
-    border-bottom: dotted 1px #006600;
-}
+    width: 150px;
+  }
